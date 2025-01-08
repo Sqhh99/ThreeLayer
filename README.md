@@ -1,5 +1,5 @@
 # ThreeLayer
-这是我的软件架构实践作业2 三层逻辑架构设计 基于qt，数据库为mysql
+三层逻辑架构设计 基于qt，数据库为mysql
 
 1、获取数据集
 从附件1的https://www.nationmaster.com/网站中下载了“Wholesale and Retail Trade Services of Computers, Computer Peripherals and Software Turnover in Computer Programming and Consultancy Sector in the UK.xlsx”数据集
